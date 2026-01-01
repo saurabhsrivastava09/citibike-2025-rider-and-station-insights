@@ -116,7 +116,7 @@ Creates a station reference table for mapping and joins.
 
 ---
 
-## 📂 Output Files
+## Output Files
 
 | File Name | Purpose | Used In |
 |---------|--------|--------|
@@ -127,7 +127,7 @@ Creates a station reference table for mapping and joins.
 
 ---
 
-## 🛠 Tools & Technologies
+## Tools & Technologies
 - **Python (Pandas, NumPy)**
 - **Tableau**
 - **Haversine Distance Calculation**
@@ -135,14 +135,14 @@ Creates a station reference table for mapping and joins.
 
 ---
 
-## ⚠️ Notes & Limitations
+## Notes & Limitations
 - Free BI tool row limits influenced dataset design
 - Full-detail station flow datasets are generated but not used
 - Top-100 station filtering ensures dashboard performance and usability
 
 ---
 
-## 📈 Future Enhancements
+## Future Enhancements
 - Migration to a BI tool without row limitations
 - Incremental processing using Parquet or DuckDB
 - Integration with cloud storage (S3/GCS)
