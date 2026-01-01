@@ -127,6 +127,82 @@ Creates a station reference table for mapping and joins.
 
 ---
 
+## 📊 Dashboards & Visualizations
+
+Two interactive dashboards analyze **Citi Bike 2025 trip data (January–November)**, focusing on **rider behavior patterns** and **station network dynamics**.
+
+**Dashboards can be viewed here:**  
+**[Tableau Dashboard Link – Coming Soon]**
+
+---
+
+### Home Page
+
+The Home Page provides context and navigation for the analysis.
+
+- Brief overview of Citi Bike’s evolution since 2013  
+- Key guiding questions:
+  - When and where are trips busiest?
+  - How long and how far do riders travel?
+  - Which stations dominate the network?
+- Navigation links to:
+  - **Rider Behavior Overview**
+  - **Station Network Overview**
+
+---
+
+### Rider Behavior Overview
+
+This dashboard focuses on **who is riding, when they ride, and how ride behavior differs** between members and casual users.
+
+**Key Visuals**
+- **Bar Charts**
+  - Trips per month and year
+  - Trips by season with member vs. casual split
+- **Line Charts**
+  - Hourly utilization patterns at start stations
+- **Summary KPI Cards**
+  - Average ride duration
+  - Average distance traveled
+  - Comparison by rider type
+
+**Insights Highlighted**
+- Seasonal and monthly demand trends  
+- Peak riding hours and daily patterns  
+- Behavioral differences between members and casual riders  
+
+---
+
+### Station Network Overview
+
+This dashboard explores **where trips start and end**, highlighting the most active stations and travel flows.
+
+**Key Visuals**
+- **Dual Maps**
+  - Start and end stations by month and rider type
+  - Station popularity (Top stations highlighted in red)
+- **Bar & Line Charts**
+  - Top 10 start stations vs. end stations
+  - Hourly utilization between popular station pairs
+  - Most frequent station-to-station trips
+
+**Insights Highlighted**
+- Dominant stations across seasons  
+- High-volume station pairs and return trips  
+- Spatial density concentrated in Manhattan and Jersey City  
+
+---
+
+### Key Visualizations, Insights & Filters
+
+| Visualization | Key Insights | Filters |
+|--------------|------------|--------|
+| Popular Start / End Stations | W 20 St & 7 Ave consistently leads; noticeable seasonal shifts | Month/Year, Member/Casual |
+| Trips Between Stations | High same-station return trips; top station flows identified | Hour, Month |
+| Geographic Maps | Strong trip density in Manhattan and Jersey City | Season, Rider Type |
+
+---
+
 ## Tools & Technologies
 - **Python (Pandas, NumPy)**
 - **Tableau**
