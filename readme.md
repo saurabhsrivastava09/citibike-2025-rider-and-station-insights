@@ -148,6 +148,8 @@ The Home Page provides context and navigation for the analysis.
 - Navigation links to:
   - **Rider Behavior Overview**
   - **Station Network Overview**
+ 
+<img width="1306" height="821" alt="Screenshot 2026-01-01 at 5 43 38 PM" src="https://github.com/user-attachments/assets/3aa2c19b-0b65-4412-84af-cfa01c6db444" />
 
 ---
 
@@ -171,6 +173,8 @@ This dashboard focuses on **who is riding, when they ride, and how ride behavior
 - Peak riding hours and daily patterns  
 - Behavioral differences between members and casual riders  
 
+<img width="1399" height="843" alt="Screenshot 2026-01-01 at 5 57 28 PM" src="https://github.com/user-attachments/assets/45077136-cebf-4451-907a-83b25762caba" />
+
 ---
 
 ### Station Network Overview
@@ -191,13 +195,21 @@ This dashboard explores **where trips start and end**, highlighting the most act
 - High-volume station pairs and return trips  
 - Spatial density concentrated in Manhattan and Jersey City  
 
+<img width="1420" height="842" alt="Screenshot 2026-01-01 at 5 57 43 PM" src="https://github.com/user-attachments/assets/f8ecc23d-8893-44aa-b3f4-adc41fae64b5" />
+
+---
+
+### Station Network Map Overview
+
+<img width="1304" height="846" alt="Screenshot 2026-01-01 at 5 58 01 PM" src="https://github.com/user-attachments/assets/d0a6e368-c874-4c98-917c-ef0c727c6073" />
+
 ---
 
 ### Key Visualizations, Insights & Filters
 
 | Visualization | Key Insights | Filters |
 |--------------|------------|--------|
-| Popular Start / End Stations | W 20 St & 7 Ave consistently leads; noticeable seasonal shifts | Month/Year, Member/Casual |
+| Popular Start / End Stations | W 20 St & 6 Ave consistently leads; noticeable seasonal shifts | Month/Year, Member/Casual |
 | Trips Between Stations | High same-station return trips; top station flows identified | Hour, Month |
 | Geographic Maps | Strong trip density in Manhattan and Jersey City | Season, Rider Type |
 
