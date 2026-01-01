@@ -134,7 +134,7 @@ Creates a station reference table for mapping and joins.
 Two interactive dashboards analyze **Citi Bike 2025 trip data (January–November)**, focusing on **rider behavior patterns** and **station network dynamics**.
 
 **Dashboards can be viewed here:**  
-**[Tableau Dashboard Link – Coming Soon]**
+**Tableau Dashboard: https://public.tableau.com/views/CitiBikes2025-RiderandStationInsights/Story?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 
 ---
 
