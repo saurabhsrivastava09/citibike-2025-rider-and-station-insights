@@ -1,7 +1,6 @@
-# Citi Bike 2025 Analysis Tableau
-
 <img width="438" height="115" alt="citibike-image" src="https://github.com/user-attachments/assets/8ddd182c-c7f2-4108-9b29-b12bea6c7bae" />
 
+# Citi Bike 2025 Analysis Tableau
 
 This project contains multiple Python scripts that process raw **Citi Bike 2025 trip data** into optimized, analytics-ready datasets for **Tableau dashboards**.  
 The workflow is designed to handle large volumes of trip data while addressing **row limitations in free BI tools**.
